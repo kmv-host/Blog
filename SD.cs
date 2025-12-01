@@ -1,6 +1,10 @@
 ﻿namespace Blog
 {
-    public class SD
+    public static class SD
     {
+        public static void AddPost()
+        {
+
+        }
     }
 }
